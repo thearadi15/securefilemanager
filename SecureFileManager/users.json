@@ -1,0 +1,10 @@
+{
+    "abc@gmail.com": {
+        "password": "949dc0b682d22b23c67b1e01d95960df0c316747516d7490b5e8e00dffaf5fa6",
+        "otp_secret": "NFSEQ3E4NPWWDQ2HHRDQDGGSYXBWHC37"
+    },
+    "abcd@gmail.com": {
+        "password": "949dc0b682d22b23c67b1e01d95960df0c316747516d7490b5e8e00dffaf5fa6",
+        "otp_secret": "5IKI7I7TTTHR6T4YHGGZ3HBCS6V6UCYF"
+    }
+}
