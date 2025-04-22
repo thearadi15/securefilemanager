@@ -123,5 +123,3 @@ GitHub: [thearadi15](https://github.com/thearadi15)
 This project is licensed under the **MIT License**.
 
 ---
-
-Let me know if you want to include badges, a logo, a demo link, or make it tailored for a portfolio!
