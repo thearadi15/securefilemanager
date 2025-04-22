@@ -51,7 +51,7 @@ Here’s a professional and comprehensive `README.md` for your **Secure File Man
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/secure-file-manager.git
+   git clone https://github.com/thearadi15/securefilemanager.git
    cd secure-file-manager
    ```
 
